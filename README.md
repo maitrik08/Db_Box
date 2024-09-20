@@ -1,6 +1,6 @@
-# db_box
-
 Project Definition: DB Box
+
+
 Project Description:
 The "DB Box" project is designed to help students learn how to perform CRUD (Create, Read,
 Update, Delete) operations on a TODO list using the sqflite package in Flutter. The project also
@@ -14,6 +14,8 @@ This project offers a comprehensive learning experience in building database-dri
 managing local storage, and incorporating important user interface elements such as splash
 screens and themes. By the end of this project, students will be able to manage app state
 efficiently, handle persistent data storage, and create intuitive user interfaces.
+
+
 Project Features:
 - Implement CRUD functionalities for TODOs using the sqflite package to store data in a local
 SQLite database.
@@ -28,6 +30,7 @@ the selected theme state saved persistently using shared_preferences.
 Model, View, and Controller layers.
 - Manage the app's state using either Provider or GetX for efficient state handling, particularly
 for the TODO list and theme persistence.
+
 Project Technologies:
 - Dart language
 - Flutter framework with MVC and Provider/GetX architecture
