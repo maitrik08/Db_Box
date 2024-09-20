@@ -26,7 +26,6 @@ shared_preferences to track this.
 the selected theme state saved persistently using shared_preferences.
 - Organize the project following the MVC architecture to maintain clear separation between the
 Model, View, and Controller layers.
-www.rnwmultimedia.edu.in Shaping “skill” for “scaling” higher…!!! Page 1 of 3
 - Manage the app's state using either Provider or GetX for efficient state handling, particularly
 for the TODO list and theme persistence.
 Project Technologies:
